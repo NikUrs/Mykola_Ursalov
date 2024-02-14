@@ -1,0 +1,150 @@
+
+
+
+
+  Platform: PC<br>
+  OS: Windows<br> 
+  OS Version: 10 x64<br>
+  Tester: Nikolay Ursalov<br>
+
+Перечень чек-листов для страницы "Счётчики"
+1. Вёрстка страницы
+2. Форма добавления счётчиков
+3. Редактирование счётчиков
+4. Удаление счётчика
+
+<table>
+
+<tr>
+  <th colspan="2"><h3>Checking</h3></th>
+  <th><h3>Status</h3></th>
+  <th><h3>Bug / Comments</h3></th>
+</tr>
+
+<tr>
+  <td colspan="2"><h3>1. Вёрстка страницы</h3></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">1.1. Табличное отображение арендаторов (проверка колонок)</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">1.2. Кнопка "Арендаторы" в меню навигации</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">1.3. Кнопка "Добавить арендатора"</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="2"><h3>2. Форма добавления счётчиков</h3></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.1. Валидные данные</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.2. Проверить ввод только обязательных полей</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.3. Проверить ввод не всех обязательных полей</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.4. Ввод валидных данных (такой счётчик уже есть)</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.5. Пустые поля</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.6. Отрицательные значения</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.7. Ввод некорректного типа данных</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.8. Добавить существующего арендатора</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.9. Добавить аредатора с существующим именем!!!!!!!!!!</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.10. Добавить два одинаковых номера телефона!!!!!!</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.11. Влияние содержимого колонки "Дополнительная информация" на вёрстку страницы</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="2"><h3>3. Форма редактирования арендатора</h3></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.1. Открытие формы редактирования</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.2. Сохранить отредактированные данные арендатора</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.3. Отменить форму редактирования арендатора</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="2"><h3>4. Форма поиска</h3></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.1. Поиск по полному соответствию</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.2. Поиск по частичному соответствию</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.3. Фильтрация данных</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+</table>
+
+
