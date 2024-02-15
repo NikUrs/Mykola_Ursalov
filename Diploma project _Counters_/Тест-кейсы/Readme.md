@@ -6,7 +6,7 @@
 
 
 - <a href="https://docs.google.com/spreadsheets/d/1YozX_Q-zIPp_7kDe05VwsElQ--0xujVJ/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Печать / Сохранение уведомлений</a>
-- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тестовый набор 9 - Поиск по таблицам ("Счётчики", "Арендаторы")</a>
+- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор 9 - Поиск по таблицам ("Счётчики", "Арендаторы")</a>
 - <a href="https://docs.google.com/spreadsheets/d/1VImL_uyHGENAJAlxgjA6kVCOoAUc1ytI/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Сортировка таблиц</a>
 - <a href="https://docs.google.com/spreadsheets/d/16Uto5alxLT8w_nVVsxXvTeNlMijRo3nb/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Форма оплаты начислений</a>
 - <a href="https://docs.google.com/spreadsheets/d/18YvM_9vN4_9WKWnhH33cviSRvOWiqNyU/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Форма оплаты по счетам (негативный сценарий)</a>
