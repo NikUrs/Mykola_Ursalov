@@ -69,7 +69,7 @@ Testing was performed in the following list of browsers:<br>
 
 <h4><strong>Security</strong> testing</h4>
 1. Block user’s ip on 1 hour (improvement).<br>
-2. Cookies don’t store invite code.<br><br>
+2. Invite code isn't stored in Cookies.<br><br>
 
 
 
