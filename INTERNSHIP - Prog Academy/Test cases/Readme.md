@@ -15,6 +15,3 @@
 
 
 
-
- <h4>API testing</h4>
-- <a href="https://docs.google.com/spreadsheets/d/18hdKZYyNR6_YuQIqBOobO_dhKbYjztsd/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Check the use of "set_phone" command.</a><br>
