@@ -4,10 +4,10 @@
 -"Арендаторы"<br>
 -"Начисления"<br>
 
-
-- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор 9 - Поиск по таблицам ("Счётчики", "Арендаторы")</a>
 - <a href="https://docs.google.com/spreadsheets/d/1hib8LpEAOr4gmSsq7upmK-Vmk9yh3P2U/edit#gid=2141974348">Тест набор 01. Навигация по страницам веб-приложения</a>
 - <a href="https://docs.google.com/spreadsheets/d/18YvM_9vN4_9WKWnhH33cviSRvOWiqNyU/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор 3 - Валидация формы добавления / редактирования начисления (на стороне клиента)</a>
+- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор 9 - Поиск по таблицам ("Счётчики", "Арендаторы")</a>
+
 
   
 - <a href="https://docs.google.com/spreadsheets/d/1YozX_Q-zIPp_7kDe05VwsElQ--0xujVJ/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Печать / Сохранение уведомлений</a> (Status: Need to update)
