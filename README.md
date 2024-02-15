@@ -7,7 +7,7 @@ Requirements-Based testing of web application that allows users to keep track of
 <a href="https://bit.ly/45luAtv">Link to documentation</a>
 
 <h3>3. Dev Emeli project - REST API testing</h3>
-REST API testing of a shop, which allows the registered users to add product card for selling.<br> <a href="https://github.com/NikUrs/Mykola_Ursalov/tree/8f97ca57f64b0a95df2696547c0f282f75367a95/Dev%20Emeli%20project%20-%20API%20testing">Click to the link</a>
+REST API testing of a shop, which allows the registered users to add product card for selling.<br> <a href="https://github.com/NikUrs/Mykola_Ursalov/tree/8f97ca57f64b0a95df2696547c0f282f75367a95/Dev%20Emeli%20project%20-%20API%20testing">Link to documentation</a>
 
 
 
