@@ -3,7 +3,7 @@ Testing of the client-server application that helps to automate the communicatio
 <a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/INTERNSHIP%20-%20Prog%20Academy">Link to test documentation</a>
 
 <h3>2. Testing of diploma project "Counters"</h3>
-Requirements-Based testing of web application that allows users to keep track of electricity meters in a company. <br>
+Requirements-Based testing of the web application that allows users to keep track of electricity meters in a company. <br>
 <a href="https://bit.ly/45luAtv">Link to test documentation</a>
 
 <h3>3. Dev Emeli project - REST API testing</h3>
