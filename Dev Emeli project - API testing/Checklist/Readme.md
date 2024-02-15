@@ -28,7 +28,7 @@
     <td colspan="2"></td>
     <td colspan="2">Product card creating with main fields</td>
     <td>Passed</td>
-    <td colspan="2">Ссылка на баг-репорт ссылка на баг-репорт<a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0">Ссылка на баг-репорт</a></td>
+    <td colspan="2"></td>
 </tr>
 <tr>
     <td colspan="2"></td>
@@ -148,7 +148,7 @@
     <td colspan="2"></td>
     <td colspan="2">Getting of the created product card (valid product id)</td>
     <td>Passed</td>
-    <td colspan="2">Ссылка на баг-репорт ссылка на баг-репорт<a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0">Ссылка на баг-репорт</a></td>
+    <td colspan="2"></td>
 </tr>
 <tr>
     <td colspan="2"></td>
@@ -368,7 +368,7 @@
     <td colspan="2"></td>
     <td colspan="2">Getting of the created product card (valid product id)</td>
     <td>Passed</td>
-    <td colspan="2">Ссылка на баг-репорт ссылка на баг-репорт<a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0">Ссылка на баг-репорт</a></td>
+    <td colspan="2"></td>
 </tr>
 <tr>
     <td colspan="2"></td>
