@@ -10,6 +10,6 @@ Requirements-Based testing of the web application that allows users to keep trac
 REST API testing of a shop, which allows the registered users to add product card for selling.<br> <a href="https://github.com/NikUrs/Mykola_Ursalov/tree/8f97ca57f64b0a95df2696547c0f282f75367a95/Dev%20Emeli%20project%20-%20API%20testing">Link to test documentation</a>
 
 <h3>4. Volunteering</h3>
-	Created bug reports by testing the critical functionality of websites <br> <a href="https://github.com/NikUrs/Mykola_Ursalov/tree/main/Volunteering">Link to bug reports</a>
+Created bug reports by testing the critical functionality of websites <br> <a href="https://github.com/NikUrs/Mykola_Ursalov/tree/main/Volunteering">Link to bug reports</a>
 
 
