@@ -10,7 +10,7 @@ Web-приложение, которое позволяет вести учет 
 - Чек-листы (<a href="https://github.com/NikUrs/Mykola_Ursalov/tree/main/Diploma%20project%20_Counters_/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B">Link</a>)<br>
 - Тест-кейсы (<a href="https://github.com/NikUrs/Mykola_Ursalov/tree/main/Diploma%20project%20_Counters_/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B">Link</a>)<br>
 - Баг-репорты (<a href="https://github.com/NikUrs/Mykola_Ursalov/tree/main/Diploma%20project%20_Counters_/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B%20%2B%20%D0%B8%D0%BC%D0%BF%D1%80%D1%83%D0%B2%D0%BC%D0%B5%D0%BD%D1%82%D1%8B">Link</a>)<br>
-- Тест-репорты 
+- Матрица трассировки (<a href="https://docs.google.com/spreadsheets/d/1u66S-dO-iBhkxXwA1N-PW3J7zDf3mVpkdcFSrdwm5Qg/edit#gid=0">Link</a>)
 
 Также было выполнено исследовательское тестирование с применением тестовых туров.
 (ссылка на чек-лист для тестовых туров)
