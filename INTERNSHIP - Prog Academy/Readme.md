@@ -54,7 +54,7 @@ Successfully message: "Command execution finished successfully!"<br><br>
 <h3>Testing types</h3>
 <h4><strong>Functional</strong> testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/Functional/Readme.md">click to the link</a></h4> 
 
-- <strong>Features</strong> (including Mobile site version)<br>
+- <strong>Features</strong><br>
 - <strong>API</strong> testing<br>
 - <strong>Chatbot commands testing</strong><br>
 <h4><strong>GUI</strong> (including Mobile site version) testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/GUI/Check%20list%20%2B%20Bug%20reports.md">click to the link</a></h4>
