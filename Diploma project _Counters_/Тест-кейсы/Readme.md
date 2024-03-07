@@ -24,7 +24,6 @@
 
 - <a href="https://docs.google.com/spreadsheets/d/1rjx8D9PeeiFfpELSHPYLlzACDZtYCvgh/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Удаление счётчика / счётчиков</a> (Status: Need to update)
 
-- <a href="https://docs.google.com/spreadsheets/d/1IskjfYLFB9irm7DQh56hXVEEdkaTb4OK/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор 01. Локализация веб-приложения</a> (Status: Need to update)
-- <a href="https://docs.google.com/spreadsheets/d/1IskjfYLFB9irm7DQh56hXVEEdkaTb4OK/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор 01. Локализация веб-приложения</a> (Status: Need to update)
+
 
 
