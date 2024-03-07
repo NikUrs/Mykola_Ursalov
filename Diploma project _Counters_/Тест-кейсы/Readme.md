@@ -20,7 +20,6 @@
 - <a href="https://docs.google.com/spreadsheets/d/16Uto5alxLT8w_nVVsxXvTeNlMijRo3nb/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Форма оплаты начислений</a> (Status: Need to update)
 - <a href="https://docs.google.com/spreadsheets/d/18YvM_9vN4_9WKWnhH33cviSRvOWiqNyU/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Форма оплаты по счетам (негативный сценарий)</a> (Status: Need to update)
 
-- <a href="https://docs.google.com/spreadsheets/d/1yvCiLcfRLj4Sys1hFC1-4eIQ1g246kjD/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор 3.1 - Валидация формы добавления / редактирования начисления (негативные сценарии)</a> (Status: Need to update)
 
 - <a href="https://docs.google.com/spreadsheets/d/1rjx8D9PeeiFfpELSHPYLlzACDZtYCvgh/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Удаление счётчика / счётчиков</a> (Status: Need to update)
 
