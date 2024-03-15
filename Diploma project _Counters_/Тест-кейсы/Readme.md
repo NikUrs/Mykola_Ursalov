@@ -13,7 +13,7 @@
 
 
   
-- <a href="https://docs.google.com/spreadsheets/d/1YozX_Q-zIPp_7kDe05VwsElQ--0xujVJ/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Печать / Сохранение уведомлений</a> (Status: Need to update)
+- <a href="https://docs.google.com/spreadsheets/d/1YozX_Q-zIPp_7kDe05VwsElQ--0xujVJ/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тестовый набор 6. - Печать / Сохранение уведомлений</a>
 
   
 - <a href="https://docs.google.com/spreadsheets/d/1VImL_uyHGENAJAlxgjA6kVCOoAUc1ytI/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор - Сортировка таблиц</a> (Status: Need to update)
