@@ -14,7 +14,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1t2ycTAZHLR3j_cuQvnG9Y6CsbZ3t41GG/edit?rtpof=true#gid=2141974348">Тестовый набор 7. Добавление арендатора</a>
 
 - <a href="https://docs.google.com/spreadsheets/d/1VImL_uyHGENAJAlxgjA6kVCOoAUc1ytI/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тестовый набор 8. Сортировка таблиц</a>
-- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-набор 9. Поиск по таблицам ("Счётчики", "Арендаторы")</a>
+- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тестовый набор 9. Поиск по таблицам ("Счётчики", "Арендаторы")</a>
 
 
   
