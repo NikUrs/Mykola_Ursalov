@@ -1,4 +1,4 @@
-Go to collection <a href=""></a>
+Go to collection <a href="https://interstellar-crater-711779.postman.co/workspace/Test-1~2e58b92a-fc20-452e-af63-48088810b741/collection/26275881-0491c94d-07fa-477f-9724-713c2d623f17?action=share&creator=26275881&active-environment=26275881-0df54c84-cce0-4e6e-84ae-c8623cf58e5a">Link</a>
 
 <h4>1. Collection structure</h4>
 
