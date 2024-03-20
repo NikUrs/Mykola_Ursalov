@@ -49,7 +49,9 @@ Successfully message: "Command execution finished successfully!"<br><br>
 <h3>Test Documentation</h3>
 - Checklists (<a href="https://github.com/NikUrs/Mykola_Ursalov/tree/71998369242f5fcea825323abb43d0c6162e0b63/INTERNSHIP%20-%20Prog%20Academy/Check%20lists">Link</a>)<br>
 - Test-cases (<a href="https://github.com/NikUrs/Mykola_Ursalov/tree/71998369242f5fcea825323abb43d0c6162e0b63/INTERNSHIP%20-%20Prog%20Academy/Test%20cases">Link</a>)<br>
-- Bug-reports (<a href="https://github.com/NikUrs/Mykola_Ursalov/tree/71998369242f5fcea825323abb43d0c6162e0b63/INTERNSHIP%20-%20Prog%20Academy/Bug%20and%20improvement%20reports">Link</a>)<br>
+- Bug-reports (<a href="https://github.com/NikUrs/Mykola_Ursalov/tree/71998369242f5fcea825323abb43d0c6162e0b63/INTERNSHIP%20-%20Prog%20Academy/Bug%20and%20improvement%20reports">Link</a>)<br><br>
+
+SQL part <a href="https://github.com/NikUrs/Mykola_Ursalov/tree/main/INTERNSHIP%20-%20Prog%20Academy/SQL">Link</a>
 
 <h3>Testing types</h3>
 <h4><strong>Functional</strong> testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/Functional/Readme.md">click to the link</a></h4> 
