@@ -4,4 +4,4 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1PYJqemBx5hvqLCgr0tAsJoP44a2o-XdBs-nuB2EzScs/edit?usp=drive_link">Bug report-02. The discount of a product item "Дитячi товари" sn’t matched with current dollar rate.</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1IZzjkODO_X1j5UrYOMSc6GXXPjh_twt6udWwxSNrCr0/edit?usp=drive_link">Bug report-03. The discount of a product item "Дитячi товари" sn’t matched with current dollar rate.</a>
+<a href="https://docs.google.com/spreadsheets/d/1IZzjkODO_X1j5UrYOMSc6GXXPjh_twt6udWwxSNrCr0/edit?usp=drive_link">Bug report-03. The shopping cost isn’t shown after calculating inputted values.</a>
