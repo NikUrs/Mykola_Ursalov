@@ -28,7 +28,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">!!!!!!!!!!!1.2. Sending an invalid invite code</td>
+  <td colspan="2">1.2. Sending an invalid invite code</td>
   <td>Passed</td>
   <td></td>
 </tr>
@@ -38,7 +38,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">!!!!!1.4. Sending a valid invite code in CamelCase</td>
+  <td colspan="2">1.4. Sending a valid invite code in CamelCase</td>
   <td>Passed</td>
   <td></td>
 </tr>
