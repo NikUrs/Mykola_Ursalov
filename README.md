@@ -1,4 +1,4 @@
-<h3>1. InternShip</h3>
+<h3>1. Internship</h3>
 Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.<br>
 <a href="https://github.com/NikUrs/Mykola_Ursalov/tree/main/INTERNSHIP%20-%20Prog%20Academy">Link to test documentation</a>
 
