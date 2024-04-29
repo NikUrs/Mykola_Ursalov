@@ -69,10 +69,6 @@ Testing was performed in the following list of browsers:<br>
 - Mozilla Firefox v.116.0.2<br>
 - Safari v.16.5.2<br>
 
-<h4><strong>Security</strong> testing</h4>
-1. Block user’s ip on 1 hour (improvement).<br>
-2. Invite code isn't stored in Cookies.<br><br>
-
 
 
 
