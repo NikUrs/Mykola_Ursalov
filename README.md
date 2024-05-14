@@ -11,5 +11,5 @@ REST API testing of a shop, which allows the registered users to add product car
 
 <h3>4. Volunteering</h3>
 Created bug reports by testing the critical functionality of websites <br> <a href="https://github.com/NikUrs/Mykola_Ursalov/tree/main/Volunteering">Link to bug reports</a>
-
+<br>
 <i>* Most of the materials were permission from the project owners. In other cases, attachments were hidden.</i>
